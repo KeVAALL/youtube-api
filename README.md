@@ -9,3 +9,6 @@ https://blog.hubspot.com/website/how-to-get-youtube-api-key
 
 # "Failed to load!" Console Developer Google
 https://stackoverflow.com/questions/34408004/failed-to-load-console-developer-google
+
+# Adding an env file to react project/ How do I hide API key in create-react-app?
+https://stackoverflow.com/questions/48699820/how-do-i-hide-api-key-in-create-react-app
