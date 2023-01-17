@@ -6,3 +6,6 @@ https://www.freecodecamp.org/news/error-failed-to-push-some-refs-to-how-to-fix-i
 
 # How to Get a YouTube API Key [Tutorial + Examples]
 https://blog.hubspot.com/website/how-to-get-youtube-api-key
+
+# "Failed to load!" Console Developer Google
+https://stackoverflow.com/questions/34408004/failed-to-load-console-developer-google
