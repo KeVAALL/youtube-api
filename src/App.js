@@ -33,12 +33,13 @@ function App() {
       <ul>
         {youtubeData.items.map((item) => {
           const { id, snippet = {} } = item;
-          const { title, thumbnails = {} } = snippet;
+          const { title, thumbnails = {}, resourceId = {} } = snippet;
+          const { videoId } = resourceId;
           const { medium = {} } = thumbnails;
 
           return (
             <li key={id}>
-              <a>
+              <a href={`https://www.youtube.com/watch?v=${videoId}`}>
                 <p>
                   <img
                     width={medium.width}
